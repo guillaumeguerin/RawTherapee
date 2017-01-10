@@ -1857,69 +1857,64 @@ ZOOMPANEL_ZOOMFITCROPSCREEN;Zoom/affiche la zone recadrée\nRaccourci: <b>Alt</b
 ZOOMPANEL_ZOOMFITSCREEN;Affiche l'image entière\nRaccourci: <b>f</b>
 ZOOMPANEL_ZOOMIN;Zoom Avant\nRaccourci: <b>+</b>
 ZOOMPANEL_ZOOMOUT;Zoom Arrière\nRaccourci: <b>-</b>
-
-!!!!!!!!!!!!!!!!!!!!!!!!!
-! Untranslated keys follow; remove the ! prefix after an entry is translated.
-!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!FILEBROWSER_SHOWORIGINALHINT;Show only original images.\n\nWhen several images exist with the same filename but different extensions, the one considered original is the one whose extension is nearest the top of the parsed extensions list in Preferences > File Browser > Parsed Extensions.
-!GENERAL_APPLY;Apply
-!GENERAL_OPEN;Open
-!HISTORY_MSG_166;Exposure - Reset
-!HISTORY_MSG_407;Retinex - Method
-!HISTORY_MSG_408;Retinex - Radius
-!HISTORY_MSG_409;Retinex - Contrast
-!HISTORY_MSG_410;Retinex - Offset
-!HISTORY_MSG_411;Retinex - Strength
-!HISTORY_MSG_412;Retinex - Gaussian Gradient
-!HISTORY_MSG_413;Retinex - Contrast
-!HISTORY_MSG_414;Retinex - Histogram - Lab
-!HISTORY_MSG_415;Retinex - Transmission
-!HISTORY_MSG_416;Retinex
-!HISTORY_MSG_417;Retinex - Transmission Median
-!HISTORY_MSG_418;Retinex - Threshold
-!HISTORY_MSG_419;Retinex - Color space
-!HISTORY_MSG_420;Retinex - Histogram - HSL
-!HISTORY_MSG_421;Retinex - Gamma
-!HISTORY_MSG_422;Retinex - Gamma
-!HISTORY_MSG_423;Retinex - Gamma slope
-!HISTORY_MSG_424;Retinex - HL threshold
-!HISTORY_MSG_425;Retinex - Log base
-!HISTORY_MSG_426;Retinex - Hue equalizer
-!HISTORY_MSG_427;Output rendering intent
-!HISTORY_MSG_428;Monitor rendering intent
-!HISTORY_MSG_429;Retinex - Iterations
+FILEBROWSER_SHOWORIGINALHINT;Afficher seulement les images d'origine.\n\nQuand plusieurs images existent portant le même nom mais avec différentes extensions, celle qui est considérée comme originale est celle dont l'extension est la plus proche du haut de la liste des extensions parsées dans Préférences > Navigateurs de Fichiers > Extensions Parsées.
+GENERAL_APPLY;Appliquer
+GENERAL_OPEN;Ouvrir
+HISTORY_MSG_166;Exposure - Réinitialiser
+HISTORY_MSG_407;Retinex - Méthode
+HISTORY_MSG_408;Retinex - Rayon
+HISTORY_MSG_409;Retinex - Contraste
+HISTORY_MSG_410;Retinex - Offset
+HISTORY_MSG_411;Retinex - Force
+HISTORY_MSG_412;Retinex - Pente Gaussienne
+HISTORY_MSG_413;Retinex - Contraste
+HISTORY_MSG_414;Retinex - Histogramme - Lab
+HISTORY_MSG_415;Retinex - Transmission
+HISTORY_MSG_416;Retinex
+HISTORY_MSG_417;Retinex - Transmission Médiane
+HISTORY_MSG_418;Retinex - Seuil
+HISTORY_MSG_419;Retinex - Espace de couleurs
+HISTORY_MSG_420;Retinex - Histogramme - HSL
+HISTORY_MSG_421;Retinex - Gamma
+HISTORY_MSG_422;Retinex - Gamma
+HISTORY_MSG_423;Retinex - Pente gamma
+HISTORY_MSG_424;Retinex - Seuil HL
+HISTORY_MSG_425;Retinex - Base de données
+HISTORY_MSG_426;Retinex - Egaliseur de teinte
+HISTORY_MSG_427;Intention de rendu de sortie
+HISTORY_MSG_428;Surveiller l'intention de rendu
+HISTORY_MSG_429;Retinex - Itérations
 !HISTORY_MSG_430;Retinex - Transmission Gradient
 !HISTORY_MSG_431;Retinex - Strength Gradient
-!HISTORY_MSG_432;Retinex - M - Highlights
-!HISTORY_MSG_433;Retinex - M - Highlights TW
-!HISTORY_MSG_434;Retinex - M - Shadows
-!HISTORY_MSG_435;Retinex - M - Shadows TW
-!HISTORY_MSG_436;Retinex - M - Radius
-!HISTORY_MSG_437;Retinex - M - Method
-!HISTORY_MSG_438;Retinex - M - Equalizer
-!HISTORY_MSG_439;Retinex - Process
-!HISTORY_MSG_440;CbDL - Method
+HISTORY_MSG_432;Retinex - M - Luminosité
+HISTORY_MSG_433;Retinex - M - Luminosité TW
+HISTORY_MSG_434;Retinex - M - Ombres
+HISTORY_MSG_435;Retinex - M - Ombres TW
+HISTORY_MSG_436;Retinex - M - Rayon
+HISTORY_MSG_437;Retinex - M - Méthode
+HISTORY_MSG_438;Retinex - M - Egaliseur
+HISTORY_MSG_439;Retinex - Processus
+HISTORY_MSG_440;CbDL - Méthode
 !HISTORY_MSG_441;Retinex - Gain transmission
-!HISTORY_MSG_442;Retinex - Scale
+HISTORY_MSG_442;Retinex - Echelle
 !IPTCPANEL_CATEGORYHINT;Identifies the subject of the image in the opinion of the provider.
-!IPTCPANEL_CITYHINT;Enter the name of the city pictured in this image.
+IPTCPANEL_CITYHINT;Entrez le nom de la ville représentée par cette image.
 !IPTCPANEL_COPYRIGHT;Copyright notice
 !IPTCPANEL_COPYRIGHTHINT;Enter a Notice on the current owner of the Copyright for this image, such as ©2008 Jane Doe.
 !IPTCPANEL_COUNTRYHINT;Enter the name of the country pictured in this image.
-!IPTCPANEL_CREATOR;Creator
-!IPTCPANEL_CREATORHINT;Enter the name of the person that created this image.
-!IPTCPANEL_CREATORJOBTITLE;Creator's job title
-!IPTCPANEL_CREATORJOBTITLEHINT;Enter the Job Title of the person listed in the Creator field.
-!IPTCPANEL_DATECREATEDHINT;Enter the Date the image was taken.
-!IPTCPANEL_DESCRIPTION;Description
+IPTCPANEL_CREATOR;Créateur
+IPTCPANEL_CREATORHINT;Entrez le nom de la personne qui a créé cette image.
+IPTCPANEL_CREATORJOBTITLE;Nom du métier du créateur
+!IPTCPANEL_CREATORJOBTITLEHINT;Entrez the Job Title of the person listed in the Creator field.
+IPTCPANEL_DATECREATEDHINT;Entrez la date à laquelle cette image a été prise.
+IPTCPANEL_DESCRIPTION;Description
 !IPTCPANEL_DESCRIPTIONHINT;Enter a "caption" describing the who, what, and why of what is happening in this image, this might include names of people, and/or their role in the action that is taking place within the image.
-!IPTCPANEL_DESCRIPTIONWRITER;Description writer
+IPTCPANEL_DESCRIPTIONWRITER;Description de l'auteur
 !IPTCPANEL_DESCRIPTIONWRITERHINT;Enter the name of the person involved in writing, editing or correcting the description of the image.
 !IPTCPANEL_HEADLINEHINT;Enter a brief publishable synopsis or summary of the contents of the image.
 !IPTCPANEL_INSTRUCTIONSHINT;Enter information about embargoes, or other restrictions not covered by the Copyright field.
 !IPTCPANEL_KEYWORDSHINT;Enter any number of keywords, terms or phrases used to express the subject matter in the image.
-!IPTCPANEL_PROVINCE;Province or state
+IPTCPANEL_PROVINCE;Département ou région
 !IPTCPANEL_PROVINCEHINT;Enter the name of the province or state pictured in this image.
 !IPTCPANEL_SOURCEHINT;Enter or edit the name of a person or party who has a role in the content supply chain, such as a person or entity from whom you received this image from.
 !IPTCPANEL_SUPPCATEGORIES;Supplemental categories
@@ -1930,98 +1925,98 @@ ZOOMPANEL_ZOOMOUT;Zoom Arrière\nRaccourci: <b>-</b>
 !MAIN_BUTTON_SENDTOEDITOR;Edit image in external editor
 !MONITOR_PROFILE_SYSTEM;System default
 !PARTIALPASTE_PRSHARPENING;Post-resize sharpening
-!PARTIALPASTE_RETINEX;Retinex
-!PREFERENCES_MONITOR;Monitor
-!PREFERENCES_MONPROFILE;Default color profile
+PARTIALPASTE_RETINEX;Retinex
+PREFERENCES_MONITOR;Moniteur
+PREFERENCES_MONPROFILE;Profil de couleur par défaut
 !PREFERENCES_PARSEDEXTDOWNHINT;Move selected extension down in the list.
 !PREFERENCES_PARSEDEXTUPHINT;Move selected extension up in the list.
-!PREFERENCES_PRINTER;Printer (Soft-Proofing)
-!PREFERENCES_PROFILE_NONE;None
+PREFERENCES_PRINTER;Imprimante (Épreuves)
+PREFERENCES_PROFILE_NONE;Aucun
 !PREFERENCES_TUNNELMETADATA;Copy Exif/IPTC/XMP unchanged to output file
 !SAVEDLG_SUBSAMP_TOOLTIP;Best compression:\nJ:a:b 4:2:0\nh/v 2/2\nChroma halved horizontally and vertically.\n\nBalanced:\nJ:a:b 4:2:2\nh/v 2/1\nChroma halved horizontally.\n\nBest quality:\nJ:a:b 4:4:4\nh/v 1/1\nNo chroma subsampling.
-!TP_CBDL_AFT;After Black-and-White
-!TP_CBDL_BEF;Before Black-and-White
-!TP_CBDL_METHOD;Process located
+TP_CBDL_AFT;Après Noir-et-Blanc
+TP_CBDL_BEF;Avant Noir-et-Blanc
+TP_CBDL_METHOD;Processus identifié
 !TP_CBDL_METHOD_TOOLTIP;Choose whether the Contrast by Detail Levels tool is to be positioned after the Black-and-White tool, which makes it work in L*a*b* space, or before it, which makes it work in RGB space.
 !TP_COLORTONING_NEUTRAL;Reset sliders
-!TP_DIRPYRDENOISE_3X3;3×3
+TP_DIRPYRDENOISE_3X3;3×3
 !TP_DIRPYRDENOISE_3X3_SOFT;3×3 soft
-!TP_DIRPYRDENOISE_5X5;5×5
+TP_DIRPYRDENOISE_5X5;5×5
 !TP_DIRPYRDENOISE_5X5_SOFT;5×5 soft
-!TP_DIRPYRDENOISE_7X7;7×7
-!TP_DIRPYRDENOISE_9X9;9×9
+TP_DIRPYRDENOISE_7X7;7×7
+TP_DIRPYRDENOISE_9X9;9×9
 !TP_DIRPYRDENOISE_MET_TOOLTIP;Apply a median filter of the desired window size. The larger the window's size, the longer it takes.\n\n3×3 soft: treats 5 pixels in a 3×3 pixel window.\n3×3: treats 9 pixels in a 3×3 pixel window.\n5×5 soft: treats 13 pixels in a 5×5 pixel window.\n5×5: treats 25 pixels in a 5×5 pixel window.\n7×7: treats 49 pixels in a 7×7 pixel window.\n9×9: treats 81 pixels in a 9×9 pixel window.\n\nSometimes it is possible to achieve higher quality running several iterations with a smaller window size than one iteration with a larger one.
-!TP_DIRPYRDENOISE_PASSES;Median iterations
+TP_DIRPYRDENOISE_PASSES;Itérations médianes
 !TP_DIRPYRDENOISE_PASSES_TOOLTIP;Applying three median filter iterations with a 3×3 window size often leads to better results than using one median filter iteration with a 7×7 window size.
 !TP_DISTORTION_AUTO_TIP;Automatically corrects lens distortion in raw files by matching it against the embedded JPEG image if one exists and has had its lens disortion auto-corrected by the camera.
 !TP_FILMSIMULATION_SLOWPARSEDIR;RawTherapee is configured to look for Hald CLUT images, which are used for the Film Simulation tool, in a folder which is taking too long to load.\nGo to Preferences > Image Processing > Film Simulation\nto see which folder is being used. You should either point RawTherapee to a folder which contains only Hald CLUT images and nothing more, or to an empty folder if you don't want to use the Film Simulation tool.\n\nRead the Film Simulation article in RawPedia for more information.\n\nDo you want to cancel the scan now?
 !TP_ICM_PROFILEINTENT;Rendering Intent
-!TP_ICM_SAVEREFERENCE;Save Reference Image
-!TP_NEUTRAL;Reset
-!TP_RAWCACORR_CASTR;Strength
-!TP_RETINEX_CONTEDIT_HSL;Histogram equalizer HSL
-!TP_RETINEX_CONTEDIT_LAB;Histogram equalizer L*a*b*
-!TP_RETINEX_CONTEDIT_LH;Hue equalizer
-!TP_RETINEX_CONTEDIT_MAP;Mask equalizer
-!TP_RETINEX_CURVEEDITOR_CD;L=f(L)
+TP_ICM_SAVEREFERENCE;Sauvegarder l'image de référence
+TP_NEUTRAL;Réinitialiser
+TP_RAWCACORR_CASTR;Force
+TP_RETINEX_CONTEDIT_HSL;Egaliseur d'histogramme HSL
+TP_RETINEX_CONTEDIT_LAB;Egaliseur d'histogramme L*a*b*
+TP_RETINEX_CONTEDIT_LH;Egaliseur de teinte
+TP_RETINEX_CONTEDIT_MAP;Egaliseur de masque
+TP_RETINEX_CURVEEDITOR_CD;L=f(L)
 !TP_RETINEX_CURVEEDITOR_CD_TOOLTIP;Luminance according to luminance L=f(L)\nCorrect raw data to reduce halos and artifacts.
-!TP_RETINEX_CURVEEDITOR_LH;Strength=f(H)
+TP_RETINEX_CURVEEDITOR_LH;Force=f(H)
 !TP_RETINEX_CURVEEDITOR_LH_TOOLTIP;Strength according to hue Strength=f(H)\nThis curve also acts on chroma when using the "Highlight" retinex method.
-!TP_RETINEX_CURVEEDITOR_MAP;L=f(L)
+TP_RETINEX_CURVEEDITOR_MAP;L=f(L)
 !TP_RETINEX_CURVEEDITOR_MAP_TOOLTIP;This curve can be applied alone or with a Gaussian mask or wavelet mask.\nBeware of artifacts!
-!TP_RETINEX_EQUAL;Equalizer
+TP_RETINEX_EQUAL;Egaliseur
 !TP_RETINEX_FREEGAMMA;Free gamma
-!TP_RETINEX_GAIN;Gain
-!TP_RETINEX_GAINOFFS;Gain and Offset (brightness)
-!TP_RETINEX_GAINTRANSMISSION;Gain transmission
+TP_RETINEX_GAIN;Gain
+TP_RETINEX_GAINOFFS;Gain et Offset (brillance)
+TP_RETINEX_GAINTRANSMISSION;Transmission de gain
 !TP_RETINEX_GAINTRANSMISSION_TOOLTIP;Amplify or reduce transmission map to achieve luminance.\nAbscissa: transmission -min from 0, mean, and values (max).\nOrdinate: gain.
 !TP_RETINEX_GAIN_TOOLTIP;Acts on the restored image.\n\nThis is very different from the others settings. Used for black or white pixels, and to help balance the histogram.
-!TP_RETINEX_GAMMA;Gamma
-!TP_RETINEX_GAMMA_FREE;Free
-!TP_RETINEX_GAMMA_HIGH;High
-!TP_RETINEX_GAMMA_LOW;Low
-!TP_RETINEX_GAMMA_MID;Middle
-!TP_RETINEX_GAMMA_NONE;None
+TP_RETINEX_GAMMA;Gamma
+TP_RETINEX_GAMMA_FREE;Libre
+TP_RETINEX_GAMMA_HIGH;Elevé
+TP_RETINEX_GAMMA_LOW;Bas
+TP_RETINEX_GAMMA_MID;Moyen
+TP_RETINEX_GAMMA_NONE;Aucun
 !TP_RETINEX_GAMMA_TOOLTIP;Restore tones by applying gamma before and after Retinex. Different from Retinex curves or others curves (Lab, Exposure, etc.).
 !TP_RETINEX_GRAD;Transmission gradient
 !TP_RETINEX_GRADS;Strength gradient
 !TP_RETINEX_GRADS_TOOLTIP;If slider at 0, all iterations are identical.\nIf > 0 Strength is reduced when iterations increase, and conversely.
 !TP_RETINEX_GRAD_TOOLTIP;If slider at 0, all iterations are identical.\nIf > 0 Variance and Threshold are reduced when iterations increase, and conversely.
-!TP_RETINEX_HIGH;High
-!TP_RETINEX_HIGHLIG;Highlight
-!TP_RETINEX_HIGHLIGHT;Highlight threshold
+TP_RETINEX_HIGH;Elevé
+TP_RETINEX_HIGHLIG;Luminosité
+TP_RETINEX_HIGHLIGHT;Seuil de luminosité
 !TP_RETINEX_HIGHLIGHT_TOOLTIP;Increase action of High algorithm.\nMay require you to re-adjust "Neighboring pixels" and to increase the "White-point correction" in the Raw tab -> Raw White Points tool.
-!TP_RETINEX_HSLSPACE_LIN;HSL-Linear
-!TP_RETINEX_HSLSPACE_LOG;HSL-Logarithmic
-!TP_RETINEX_ITER;Iterations (Tone-mapping)
-!TP_RETINEX_ITERF;Tone mapping
-!TP_RETINEX_ITER_TOOLTIP;Simulate a tone-mapping operator.\nHigh values increase the processing time.
-!TP_RETINEX_LABEL;Retinex
-!TP_RETINEX_LABEL_MASK;Mask
-!TP_RETINEX_LABSPACE;L*a*b*
-!TP_RETINEX_LOW;Low
-!TP_RETINEX_MAP;Mask method
-!TP_RETINEX_MAP_GAUS;Gaussian mask
+TP_RETINEX_HSLSPACE_LIN;HSL-Linéaire
+TP_RETINEX_HSLSPACE_LOG;HSL-Logarithmique
+TP_RETINEX_ITER;Itérations (Tone-mapping)
+TP_RETINEX_ITERF;Tone mapping
+!TP_RETINEX_ITER_TOOLTIP;Simule un opérateur tone-mapping.\nUne valeur élevée augmente le temps de traitement.
+TP_RETINEX_LABEL;Retinex
+TP_RETINEX_LABEL_MASK;Masque
+TP_RETINEX_LABSPACE;L*a*b*
+TP_RETINEX_LOW;Bas
+TP_RETINEX_MAP;Méthode masque
+TP_RETINEX_MAP_GAUS;Masque Gaussien
 !TP_RETINEX_MAP_MAPP;Sharp mask (wavelet partial)
 !TP_RETINEX_MAP_MAPT;Sharp mask (wavelet total)
 !TP_RETINEX_MAP_METHOD_TOOLTIP;Use the mask generated by the Gaussian function above (Radius, Method) to reduce halos and artifacts.\n\nCurve only: apply a diagonal contrast curve on the mask.\nBeware of artifacts!\n\nGaussian mask: generate and use a Gaussian blur of the original mask.\nQuick.\n\nSharp mask: generate and use a wavelet on the original mask.\nSlow.
-!TP_RETINEX_MAP_NONE;None
-!TP_RETINEX_MEDIAN;Transmission median filter
-!TP_RETINEX_METHOD;Method
+TP_RETINEX_MAP_NONE;Aucun
+TP_RETINEX_MEDIAN;Transmission filtre médian
+TP_RETINEX_METHOD;Méthode
 !TP_RETINEX_METHOD_TOOLTIP;Low = Reinforce low light.\nUniform = Equalize action.\nHigh = Reinforce high light.\nHighlights = Remove magenta in highlights.
 !TP_RETINEX_MLABEL;Restored haze-free Min=%1 Max=%2
 !TP_RETINEX_MLABEL_TOOLTIP;Should be near min=0 max=32768\nRestored image with no mixture.
-!TP_RETINEX_NEIGHBOR;Radius
-!TP_RETINEX_NEUTRAL;Reset
+TP_RETINEX_NEIGHBOR;Rayon
+TP_RETINEX_NEUTRAL;Réinitialiser
 !TP_RETINEX_NEUTRAL_TIP;Reset all sliders and curves to their default values.
-!TP_RETINEX_OFFSET;Offset (brightness)
-!TP_RETINEX_SCALES;Gaussian gradient
+TP_RETINEX_OFFSET;Offset (brillance)
+TP_RETINEX_SCALES;Pente Gaussienne
 !TP_RETINEX_SCALES_TOOLTIP;If slider at 0, all iterations are identical.\nIf > 0 Scale and radius are reduced when iterations increase, and conversely.
-!TP_RETINEX_SETTINGS;Settings
-!TP_RETINEX_SKAL;Scale
-!TP_RETINEX_SLOPE;Free gamma slope
-!TP_RETINEX_STRENGTH;Strength
-!TP_RETINEX_THRESHOLD;Threshold
+TP_RETINEX_SETTINGS;Paramètres
+TP_RETINEX_SKAL;Echelle
+TP_RETINEX_SLOPE;Pente gamma libre
+TP_RETINEX_STRENGTH;Force
+TP_RETINEX_THRESHOLD;Seuil
 !TP_RETINEX_THRESHOLD_TOOLTIP;Limits in/out.\nIn = image source,\nOut = image gauss.
 !TP_RETINEX_TLABEL;TM Min=%1 Max=%2 Mean=%3 Sigma=%4
 !TP_RETINEX_TLABEL2;TM Tm=%1 TM=%2
@@ -2029,13 +2024,13 @@ ZOOMPANEL_ZOOMOUT;Zoom Arrière\nRaccourci: <b>-</b>
 !TP_RETINEX_TRANF;Transmission
 !TP_RETINEX_TRANSMISSION;Transmission map
 !TP_RETINEX_TRANSMISSION_TOOLTIP;Transmission according to transmission.\nAbscissa: transmission from negative values (min), mean, and positives values (max).\nOrdinate: amplification or reduction.
-!TP_RETINEX_UNIFORM;Uniform
-!TP_RETINEX_VARIANCE;Contrast
+TP_RETINEX_UNIFORM;Uniforme
+TP_RETINEX_VARIANCE;Contraste
 !TP_RETINEX_VARIANCE_TOOLTIP;Low variance increase local contrast and saturation, but can lead to artifacts.
-!TP_RETINEX_VIEW;Process
-!TP_RETINEX_VIEW_MASK;Mask
-!TP_RETINEX_VIEW_METHOD_TOOLTIP;Standard - Normal display.\nMask -  Displays the mask.\nUnsharp mask - Displays the image with a high radius unsharp mask.\nTransmission - Auto/Fixed - Displays the file transmission-map, before any action on contrast and brightness.\n\nAttention: the mask does not correspond to reality, but is amplified to make it more visible.
-!TP_RETINEX_VIEW_NONE;Standard
-!TP_RETINEX_VIEW_TRAN;Transmission - Auto
-!TP_RETINEX_VIEW_TRAN2;Transmission - Fixed
-!TP_RETINEX_VIEW_UNSHARP;Unsharp mask
+TP_RETINEX_VIEW;Processus
+TP_RETINEX_VIEW_MASK;Masque
+TP_RETINEX_VIEW_METHOD_TOOLTIP;Standard - Affichage normal.\nMasque -  Affiche le masque.\nUnsharp mask - Displays the image with a high radius unsharp mask.\nTransmission - Auto/Fixe - Displays the file transmission-map, before any action on contrast and brightness.\n\nAttention: the mask does not correspond to reality, but is amplified to make it more visible.
+TP_RETINEX_VIEW_NONE;Standard
+TP_RETINEX_VIEW_TRAN;Transmission - Auto
+TP_RETINEX_VIEW_TRAN2;Transmission - Fixe
+TP_RETINEX_VIEW_UNSHARP;Masque flou
